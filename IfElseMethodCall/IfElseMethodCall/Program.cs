@@ -11,7 +11,7 @@
             Console.WriteLine("Kui soovid meetotit välja kutsuda, siis kitjuta ja");
             string method = Console.ReadLine();
 
-            if(method == "ja")
+            if (method == "ja")
             {
                 //kui kirjutan meetodi nime, siis seda nimetatakse 
                 //meetodi välja kutsumiseks
